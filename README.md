@@ -49,41 +49,43 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prajwalmehrotra12212095&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhanush-1608&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalmehrotra12212095&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanush-1608&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalmehrotra12212095&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush-1608&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 <h3 align="center">🏆 Achievements</h3>
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=prajwalmehrotra12212095&theme=onedark">
-    <img src="https://github-profile-trophy.vercel.app/?username=prajwalmehrotra12212095&theme=onedark" alt="GitHub Trophies" />
+  <a href="https://github-profile-trophy.vercel.app/?username=dhanush-1608&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=dhanush-1608&theme=onedark" alt="GitHub Trophies" />
   </a>
 </p>
+
 
 ---
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/prajwal-m-486827130/" target="_blank">
+  <a href="https://www.linkedin.com/in/dhanush-kumar-vadde-753244253" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/prajwalmehrotra234/" target="_blank">
+  <a href="https://leetcode.com/u/Dhanush2508/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
-  <a href="https://www.hackerrank.com/@prajwalmehrotra1" target="_blank">
+  <a href="https://www.hackerrank.com/profile/vdhanush2508" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&logo=hackerrank" alt="HackerRank" />
   </a>
-  <a href="https://instagram.com/mehrotraprajwal" target="_blank">
+  <a href="https://www.instagram.com/dhanush_336/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
 </p>
+
 
 ---
 
