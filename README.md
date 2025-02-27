@@ -12,7 +12,7 @@
 - 👀 I’m interested in *learning and exploring new technologies*  
 - 🌱 I’m currently learning *DevOps, Docker, Kubernetes, and SQL*  
 - 👯 I’m looking to collaborate on *exciting and innovative projects*  
-- 📫 Reach me at *vdhanush2508@gmail.com*  
+- 📧 Reach me at *vdhanush2508@gmail.com*  
 - ⚡ Fun fact: *I love trekking and exploring nature!*
 
 ---
@@ -49,24 +49,23 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhanush-1608&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhanush-kumar-vadde&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanush-1608&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanush-kumar-vadde&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush-1608&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush-kumar-vadde&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 <h3 align="center">🏆 Achievements</h3>
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=dhanush-1608&theme=onedark">
-    <img src="https://github-profile-trophy.vercel.app/?username=dhanush-1608&theme=onedark" alt="GitHub Trophies" />
+  <a href="https://github-profile-trophy.vercel.app/?username=dhanush-kumar-vadde&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=dhanush-kumar-vadde&theme=onedark" alt="GitHub Trophies" />
   </a>
 </p>
-
 
 ---
 
@@ -86,10 +85,9 @@
   </a>
 </p>
 
-
 ---
 
-<h3 align="center">📅 Learning Goals</h3>
+<h3 align="center">🗓 Learning Goals</h3>
 <ul>
   <li>Master <strong>DevOps tools</strong> like Docker, Kubernetes, and AWS</li>
   <li>Challenge myself with advanced <strong>SQL</strong> problems on <strong>LeetCode</strong></li>
